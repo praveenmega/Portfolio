@@ -1,0 +1,10 @@
+.Logo {
+    display: flex;
+    height: 100%;
+}
+
+@media all and (min-width:500px){
+    .imgclick {
+        pointer-events:none;
+    }
+}

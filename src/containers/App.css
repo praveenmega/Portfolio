@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Neon Absolute Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Neon Absolute Sans Regular'), url('./NeonAbsoluteSans.woff') format('woff');
+    }
+
+h1 {
+	font-family: 'Neon Absolute Sans Regular';
+	font-weight: 200px;
+	font-size: xx-large;
+	color: #ffffff;
+
+}
